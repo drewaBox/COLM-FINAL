@@ -1,0 +1,32 @@
+2026-10-15 10:56:44 Document check not possible: Tesseract OCR is not installed (or TESSERACT_PATH / POPPLER_PATH in .env is wrong).
+2026-10-15 11:05:25 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:25 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'x.softcopy_status' in 'where clause' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:25 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:44 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:44 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'x.softcopy_status' in 'where clause' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:45 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:45 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'x.softcopy_status' in 'where clause' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:46 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:48 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:48 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'x.softcopy_status' in 'where clause' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:53 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:53 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'x.softcopy_status' in 'where clause' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:53 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:54 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.softcopy_status' in 'field list' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:05:54 PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'x.softcopy_status' in 'where clause' in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:07:24 Database connection failed: SQLSTATE[HY000] [1049] Unknown database 'colm_registrar'
+2026-10-15 11:07:54 PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colm_registrar.users' doesn't exist in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:17:04 PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dec ON dec.id = q.decided_by
+             WHERE 1 = 1 AND q.status = ?' at line 6 in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:17:23 PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dec ON dec.id = q.decided_by
+             WHERE 1 = 1 AND q.status = ?' at line 6 in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:17:30 PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dec ON dec.id = q.decided_by
+             WHERE 1 = 1 AND q.status = ?' at line 6 in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:18:48 PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dec ON dec.id = q.decided_by
+             WHERE 1 = 1 AND q.status = ?' at line 6 in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:18:48 PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dec ON dec.id = q.decided_by
+             WHERE 1 = 1 AND q.status = ?' at line 6 in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:18:48 PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dec ON dec.id = q.decided_by
+                            WHERE x.item_id = ? ...' at line 6 in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
+2026-10-15 11:18:48 PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dec ON dec.id = q.decided_by
+                            WHERE x.item_id = ? ...' at line 6 in C:\xampp\htdocs\COLM FINALS\new-ui-main\backend\database.php:25
